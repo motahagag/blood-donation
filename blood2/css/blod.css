@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Tajawal', sans-serif;
+    text-align: left;
+    font-size: 20;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+#contents{
+    width: 1520;
+    height: 1076;
+}
+.bg{
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: -10;
+}
+.tfbg{
+    float: left;
+    margin-top: -1050;
+    margin-left: 50;
+    
+}
+p{
+    font-size: 68;
+    color: white;
+}
+.imfbg{
+    float: left;
+    margin-top: -900;
+    margin-left: 100;
+}
+.imfbg2{
+    float: right;
+    margin-top: -1100;
+    margin-right: 50;
+}
+.imfbg3{
+    float: left;
+    margin-left: 20;
+    margin-top: -300;
+}
+.tfbg2{
+    float: left;
+    margin-left: 60;
+    margin-top: -150;
+}
+p2{
+    font-size: 40;
+    
+}
+.bufbg{
+    width: 251;
+    height: 79;
+    text-align: center;
+    border-radius: 0px 20px 0px 20px;
+    background-color: #F74A21;
+    float: left;
+    margin-left: 250;
+    margin-top: -50;
+}
+p3{
+    font-size: 30;
+    color: white;
+}
+.imfbg4{
+    float: right;
+    margin-top: -300;
+    margin-right: -150;
+}
